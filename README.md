@@ -1,2 +1,4 @@
 # EcoBin-Smart-Waste-Management-System
-Hackathon: MoonHacks by Moon Corp: A New Hackathon for begineers helping teach education.
+This repository conatains the project submitted for the "MoonHacks By Moon Corp" hackathon 
+Deadline: May 25, 2024 
+
